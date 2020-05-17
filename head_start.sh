@@ -100,7 +100,7 @@ sudo snap install spotify
 #python-packages
 echo -e "\n${LIGHTBLUE}Installing python-packages to get started......${NC}"
 
-sudo apt-get install -y pyhton3 
+sudo apt-get install -y python3 
 
 sudo apt-get install -y python3-pip
 
